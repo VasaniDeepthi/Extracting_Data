@@ -1,0 +1,686 @@
+Python 3.5.2 (v3.5.2:4def2a2901a5, Jun 25 2016, 22:18:55) [MSC v.1900 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: C:\Users\user\Desktop\github1.py =================
+General Science 
+Learn Tricks & Quicker Approaches
+Like, Share 
+& 
+Subscribe
+One liner Questions & Answers (Part
+-
+01)
+
+General Science 
+Learn Tricks & Quicker Approaches
+Like, Share 
+& 
+Subscribe
+One liner Questions & Answers (Part
+-
+01)
+
+Which ore contains both calcium and 
+magnesium?
+Dolomite
+Ore Name
+Chemical Name
+Metal Present
+Hematite
+Iron Oxide
+Iron
+Bauxite
+Aluminum oxide
+Aluminum
+Galena
+Lead 
+sulphide
+Lead
+Cinnabar
+Mercury 
+Sulphide
+Mercury
+Malachite
+Copper Carbonate
+Copper
+
+*When light splits by a glass prism into 
+seven 
+colours
+, the phenomenon is called?
+(a)
+reflection of light
+(b)
+refraction of light
+(c)
+dispersion of light
+(d)
+spectrum
+
+Thermal radiations are electromagnetic wave belonging to which 
+region? 
+Infrared Region
+Which electromagnetic wave has the longest wavelength? 
+Radio 
+
+
+Cyclonic
+
+A satellite image shows massive cloud coverage 
+over Rajasthan and movement of cyclone 
+Komen
+in 
+the Bay of Bengal
+
+Which is present in the largest amount in 
+
+crust
+Oxygen
+
+Deficiency of which vitamin causes knock
+-
+knee, bow legs and pigeon 
+chest in children?
+Vitamin D
+
+Indian sovereignty in sea extends up to 
+how many nautical miles?
+12
+An
+exclusive economic zone
+(
+EEZ
+) is a sea zone prescribed by the
+United Nations 
+Convention on the Law of the Sea
+over which a
+state
+has special rights regarding the 
+exploration and use of
+marine
+resources, including energy production from water and 
+wind
+.
+It stretches from the baseline out to 200
+nautical miles
+(
+nmi
+) from its coast.
+
+What is the proportion of red blood 
+corpuscles and white blood corpuscles in 
+human body?
+500 : 1
+Red Blood cell
+Erythrocytes
+lifetime of about 120 days.
+White Blood Cells
+Leukocytes
+They live for about 3 to 4 
+days
+Platelets (
+55% of the volume 
+composed of
+plasma)
+Thrombocytes
+lifespan of a platelet is 
+normally just 5 to 9 days
+
+Rainbow is formed due to a 
+combination of ??
+Dispersion and total internal reflection
+
+Which is considered as the drug of 
+last resort for human being?
+Streptomycin
+Streptomycin
+is an antibiotic used to treat a number of 
+bacterial infections. This includes tuberculosis, Mycobacterium 
+avium
+complex, 
+endocarditis
+, brucellosis, 
+Burkholderia
+infection, plague, tularemia, and rat bite fever.
+
+Litmus paper used in laboratory from 
+which obtained?
+Lichen
+A 
+lichen 
+is a composite organism that arises from algae 
+and/or 
+cyanobacteria
+living among filaments of a fungus in 
+a symbiotic relationship.
+
+Which is the highest grade of coal whose 
+surface is shining and has the highest 
+calorific value?
+Anthracite 
+
+Plants which lack true roots, stems and leaves 
+are called by which name?
+Thallophytes
+
+Which is the highest peak in South 
+India? 
+Anaimudi
+Anamudi
+or 
+Anai
+Mudi
+is a mountain located in the Indian state of 
+Kerala. It is the highest peak in the Western Ghats and South India, at 
+an elevation of 2,695 
+metres
+, and a topographic prominence of 2,479 
+metres
+.
+
+Glass is made of the mixture of which 
+things?
+Sand and silicates
+
+What are the Doldrums?
+Equatorial zone with low pressure
+
+In human beings, What is the opening of 
+the stomach into the small Intestine called?
+Pylorus
+
+Which winds are flowing from sub 
+tropical high pressure to sub polar low 
+pressure?
+Westerlies
+
+What is the outermost layer of Sun 
+called? 
+Corona
+
+Which kinds of lenses are used to treat 
+Astigmatism ?
+Cylindrical
+Astigmatism
+is a type of refractive error in 
+which the eye does not focus light evenly on the 
+retina. This results in distorted or blurred vision 
+at all distances.
+
+What is the largest ecosystem of the 
+Earth?
+Hydrosphere
+
+Which is a major constituent of Biogas?
+Methane
+
+Cooking gas is a mixture of which 
+gases?
+Propane
+and Butane
+
+What is a mixture of potassium nitrate, 
+powdered charcoal and 
+sulphur
+called
+Gun powder
+
+Which Pollination takes place with the 
+help of water is called?
+Hydrophyily
+
+In which hemisphere does India lie?
+Northern and eastern
+
+Spice saffron is obtained from which part of 
+plant?
+Stigma
+
+What is the permissible level of noise in 
+a silent zone at daytime?
+75db
+
+
+related to the size of which thing?
+Nucleus
+Rutherford's
+alpha particle
+scattering experiment
+shows the 
+presence of nucleus in the atom
+
+Which type of cell has the ability to 
+develop into any type of all?
+Stem Cells
+Stem cells
+are mother cells that have the potential to 
+become any type of cell in the body. One of the main 
+characteristics of
+stem cells
+is their ability to 
+self
+-
+renewable
+
+Which gas is absorbed during 
+photosynthesis?
+CO2
+
+For crop does India have the largest 
+cultivated area in the world?
+Rice
+
+Which is used as a fuel in Nuclear 
+power stations in India?
+Thorium
+
+What is the capital of Lakshadweep?
+Kavaratti
+
+The 
+albedo
+of which cloud is the highest?
+Cirrus cloud
+
+Which glass is used in bullet proof screens?
+Reinforced glass
+
+Because of which factor, clouds do not 
+precipitate in deserts?
+Low humidity
+
+For a body moving with constant speed in a 
+horizontal circle, what remains constant?
+KE
+
+The high altitude tropical forest which has 
+dwarfed trees is known by which name?
+Elfm
+forest
+
+The food material in fungi is stored in 
+which form?
+Glycogen
+
+Which is a free living bacteria that help 
+in nitrogen fixation?
+Azotohacter
+Present in 
+Nodulated
+root of plants
+Which bacteria helps in improving the 
+soil fertility?
+Rhizobrum
+
+The sun is visible a little before the actual 
+sunrise because of which reaction?
+Atmospheric refraction
+
+Which Bacteria commonly lives in the 
+intestine of human?
+Escherichia coli
+
+What is the minimum forest cover to 
+maintain ecological balance?
+33%
+
+By which force can fat be separated 
+from milk in a cream separator?
+Centrifugal force
+
+EI Nino current appears along the 
+coast of which country?
+Peru
+
+Who appoints the Governor of Jammu 
+and Kashmir?
+President
+
+If we move from the equator to a pole, 
+what will be the value of g?
+Increases
+
+Why are In the northern hemisphere, 
+currents deflected to their right?
+Due to 
+coriolis
+force
+
+Which law of thermodynamics 
+introduces the concept of entropy?
+Second law
+
+What is the principle by which a cooling 
+system (Radiator) in a motor car works?
+Convection
+Convection
+is heat transfer by mass motion 
+of a fluid such as air or water when the 
+heated fluid is caused to move away from the 
+source of heat, carrying energy with it
+Thermal
+conduction
+is the transfer of heat 
+(internal energy) by microscopic collisions of 
+particles and movement of electrons within a 
+body.
+
+What does Nail polish remover 
+contain?
+Acetone
+
+Which tissue in man where no cell 
+division, occurs after birth?
+Nerves
+
+Chlorine acts as a bleaching agent only 
+in the presence of which thing?
+Moisture
+
+Which are the 
+The
+best and the poorest 
+conductors of heat respectively?
+Silver (Ag), and lead (
+Pb
+)
+
+Which colloidal solution is used in 
+photography?
+Colloidal silver bromine
+Bromine
+is the only nonmetal element that 
+naturally takes form as a liquid under 
+normal circumstances. It easily evaporates, 
+and in its gaseous state has a smell similar 
+to that of
+chlorine
+.
+
+Where are diesel locomotives 
+manufactured?
+Varanasi
+
+Chittaranjan
+Locomotive Works, 
+Chittaranjan
+.
+
+Diesel Loco 
+Modernisation
+Works, 
+Patiala.
+
+Integral Coach Factory, 
+Chennai
+.
+
+Rail Coach Factory, 
+Kapurthala
+.
+
+Rail Wheel Factory, 
+Bangalore.
+
+During the fermentation of sugar, which 
+enzyme which converts glucose into ethyl 
+alcohol?
+zymase
+
+Which human organ is most 
+susceptible to harmful radiations?
+Lungs
+
+A person feel fatigued due to deposition 
+of which acid in their muscles?
+Lactic Acid
+
+Which planet take maximum time for one revolution 
+around the Sun?
+Jupiter
+
+When the wind is deflected due to the 
+rotation of the Earth, what is it called?
+Geostropic
+wind
+
+Which is used in storage batteries?
+Lead
+
+The problem of leaching of the soil is more 
+pronounced in the areas how rainfall is 
+there?
+Heavy rainfall
+
+What is most suitable for the core of 
+an electromagnet?
+Soft iron
+
+Which insect spreads 
+kala
+-
+azar
+?
+Sand fly
+
+Which is the main ingredient in cement?
+Lime stone
+
+Which industry produces the most non
+-
+biodegradable wastes?
+Thermal power plants
+
+Which peninsular river is westward 
+flowing?
+Tapti
+
+A convex mirror makes a good rear
+-
+view mirror for a car. Why?
+It forms erect, reduced images
+
+Which type of the fruit formed without 
+fertilisation
+?
+Parthenocarpy
+
+Indian first took part in the Olympic 
+Games in which year?
+1920  
+
+Antwerp
+,
+Belgium
+India
+first participated at the
+Olympic
+Games in 1900, with 
+a lone athlete (Norman Pritchard) winning two medals
+-
+both silver
+-
+in athletics. The nation first sent a team to the 
+Summer
+Olympic
+Games in
+1920
+,
+Three athletes and 
+two wrestlers could not win any medal.
+
+Which is the plant hormone that induces 
+cell division?
+Auxins
+
+In 
+vulcanisation
+, with which the 
+natural rubber is heated?
+Sulphur
+
+Which planet of the solar system spins 
+on its axis at the fastest rate?
+Jupiter 
+
+Which algae is used as biofertilizer in 
+the production of crop paddy?
+Blue green algae
+
+Which unicellular algae are used as 
+source of oxygen in space research?
+Chlorella
+
+Which region gets no rainfall 
+throughout the year?
+The Tundra Region
+
+Which gas has maximum colorific 
+value?
+Oil gas
+
+A molecule of glucose on complete 
+oxidation yields 
+howmany
+ATP molecules in 
+case of aerobic respiration?
+36
+
+Which river flows between the 
+Vindhya and 
+Satpura
+ranges?
+Narmada
+
+Which is the type of movement that occurs 
+during opening and closing of flower?
+Nastic
+movement 
+
+Which gland is responsible for the 
+secretion of insulin?
+Pancrease
+
+Which type of rainfall that occurs when 
+wind rises up along a hill or mountain 
+barrier?
+Orographic
+
+Which are the most commonly used 
+chemicals in the artificial rain making 
+or cloud seeding?
+Silver Iodide (
+Agl
+)
+
+What happens, When water is heated 
+from 0
+°
+C to 10
+°
+C the volume of water?
+First decreases then increases
+
+What do you understand by the word 
+regur
+?
+Black soil found in the Deccan
+Black soil
+is also known as 
+Black Cotton Soil 
+as 
+cotton is an important 
+crop which is grown in this type of soil. The soil content is 
+rich 
+in 
+calcium carbonate, potash, lime and magnesium carbonate but has 
+poor phosphorus content. It is mostly found in areas such as Gujarat, 
+Madhya Pradesh and Maharashtra. It is also found in states like Tamil 
+Nadu, Andhra Pradesh and Karnataka.
+
+Besides water and light which is more 
+essential as a raw material for 
+photosynthesis?
+CO2
+
+Of the floating iceberg in the sea, how 
+much is the portion remaining above 
+the sea level?
+1/10th
+
+Which salt is found in bone in largest 
+amount?
+Calcium phosphate 
+
+Which is a strong smelling agent added to 
+LPG cylinder to help in the  detection of gas 
+leakage? 
+Thioethanol
+
+Food prepared by plant, through which is 
+transported to different part of plant?
+Phloem
+
+What is responsible for blue body 
+syndrone
+?
+Nitrate
+
+Inside the body, why does blood 
+not coagulate?
+Due to the presence of hepari
+n
+
+Which river flows through a rift valley?
+Narmada
+
+By whom are the planets are kept in 
+motion in their respective orbits?
+Gravitation and centrifugal force
+
+BCG vaccination (Bacillus 
+Calmette
+Guerine
+) is injected to get immunity from 
+which disease?
+Tuberculosis
+
+Which chemical is used for preserving 
+fruit juices?
+Sodium benzoate
+Some examples: Used as food preservatives are 
+ethylenediamine
+-
+tetraacetic
+acid (EDTA),
+citric 
+acid, 
+sorbitol
+, and
+tartaric acid.
+
+Among the biotic components of the 
+ecosystem, the producer system is ?
+Plants
+
+Which group of gases contribute to the 
+'Green House Effect' ?
+Carbon dioxide and Methane
+
+Which is the sweetest natural sugar ?
+Fructose
+
+Blue 
+colour
+of sky is due to phenomenon of 
+-
+(a)
+Reflection
+(b)
+Refraction
+(c)
+Scattering
+(d)
+Dispersion
+
+>>> 
